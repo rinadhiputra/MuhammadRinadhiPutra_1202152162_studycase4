@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MuhammadRinadhiPutra_1202152162_studycase4</string>
+    <string-array name="namaMahasiswa">
+        <item>Budi Santoso</item>
+        <item>Haris Sandi Matondang</item>
+        <item>Muhammad Rinadhi Putra</item>
+        <item>Nency Yuliana Putri</item>
+        <item>Irfan Suhendra</item>
+        <item>Delviandri Marlin</item>
+        <item>Muhammad Ihsan Reski Armanda</item>
+        <item>Ikhwanul Fahmi</item>
+        <item>Edo Aulia Fallah</item>
+        <item>Octalia Visaliny</item>
+        <item>Nurpazila Roza</item>
+        <item>Gilang Rahmatul Ikhlas</item>
+        <item>Annisa Erikha K</item>
+
+    </string-array>
+</resources>
